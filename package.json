@@ -1,0 +1,20 @@
+{
+  "name": "emoji",
+  "version": "1.0.0",
+  "description": "emoje game",
+  "main": "index.ts",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Macacao da bola azul",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.24",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.7.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.1.1",
+    "typescript": "^4.6.3"
+  }
+}
