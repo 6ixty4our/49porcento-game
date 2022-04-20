@@ -1,5 +1,10 @@
 # 49porcento-game
 
+> Download
+
+https://github.com/6ixty4our/49porcento-game/releases/
+
+
 # Como rodar
 > Windows
 
