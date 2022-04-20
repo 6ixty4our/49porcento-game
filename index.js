@@ -5,11 +5,17 @@ var fs_1 = require("fs");
 var process_1 = require("process");
 var open_1 = require("open");
 var perguntar = prompt_sync_1();
+console.clear();
 rodarFrame("no-trabalho", 1);
+console.clear();
 rodarFrame("no-ponto", 1);
+console.clear();
 rodarFrame("chegando", 12);
+console.clear();
 rodarFrame("onibus-casa", 37);
+console.clear();
 rodarFrame("em-casa", 7);
+console.clear();
 rodarFrame("sus-dentro", 7, true);
 function rodarFrame(frame, quantidadeDeFrames, acabou) {
     for (var i = 1; i <= quantidadeDeFrames; i++) {
