@@ -18,7 +18,7 @@ Abra o Prompt de comando (CMD) e entre no diretorio instalado, depois rode o exe
 
 Abra um terminal no diretorio onde se encontra o binário baixado, adicione a permissão de executar e rode o videojogo
 ```sh
-  tar -xvzf 49porcento-game.tar.gz
+  tar -xvzf linux-49porcento-game.tar.xz
   cd ~/Downloads/49porcento-game
   chmod +x ./49porcento-game
   ./49porcento-game
