@@ -2,7 +2,7 @@
 
 > Download
 
-https://github.com/6ixty4our/49porcento-game/releases/
+https://github.com/6ixty4our/49porcento-game/releases/tag/v1
 
 
 # Como rodar
